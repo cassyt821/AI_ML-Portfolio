@@ -1,6 +1,6 @@
 In this project, I explored the groups of individuals who are likely to accept coupons of two specific types: Bar Coupons and Coffee House Coupons.
 
-The 
+The Jupyter Notebook can be found here: Assignment 5_1/prompt.ipynb
 
 Bar Findings:
 
@@ -12,3 +12,12 @@ Looking at coupon acceptance at the cross-section of age and bar frequency, it s
 
 
 Coffee House Findings:
+
+Initial review of data along single dimensions suggest the following independent criteria may be of interest: 
+1. Drivers who are unemployed, students, or work in the computer, mathematical, healthcare, or technical fields
+2. Drivers under the age of 30
+3. Drivers offered the coupon between 10AM and 6PM
+
+Upon further analysis, drivers who are under 21 and are driving between 10AM and 2PM are significantly likely to accept the coupon based on those two criteria alone. Wider nets of criteria actually lower the likelihood in my explorations.
+
+Next steps may include investigating whether the coupon is to an establishment that is in the same direction or in the opposite direction of driving, and whether the pre-existing routine of patronizing a coffee house has any correlation with a driver's likelihood of accepting the offered coupon.
