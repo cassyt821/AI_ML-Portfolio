@@ -9,3 +9,8 @@ In general, the following categories of cars seem to be popular with customers:
 - White cars are also generally good to keep around.
 
 Chevrolet, Toyota, and Ford cars are predominant in this dataset, so these findings are likely to be more heavily influenced by these manufacturers' cars compared to cars manufactured by other companies. 
+
+
+The Jupyter Notebook corresponding to this assignment can be found here: Assignment 11.1/prompt_II.ipynb
+
+The data had to be zipped in order to be uploaded to GitHub.
