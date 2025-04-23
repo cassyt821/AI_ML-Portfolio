@@ -34,10 +34,8 @@ I am also considering adding a dataset that includes more details on energy usag
 I could also explore whether some combination of a regression model and a classification model can be used. Right now, my model has a binary success criteria: either the bills decreased or they didn't. There is a middle ground that equates to "breaking even", and there are different ranges of success. A household's bill could increase by a small amount, say 5%, and the homeowner could still consider that a success, for example, if they value decarbonization at 10% of their average utility bill.
 
 #### Outline of project
-
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+Link to Notebook: Capstone EDA/20250422 Submission Electrification Success Model.ipynb
 
 
 ##### Contact and Further Information
+Contact Cassandra Tang via Canvas
